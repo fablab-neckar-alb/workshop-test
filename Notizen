@@ -2,6 +2,18 @@ git init : lege ein "git repository" in einem Ordner an
 .git folder : enthält die Information für git
 git status : zeigt den aktuellen Zustand des "repository"
 git log : zeigt die Versionsgeschichte
+git add : stage everything
+git add -A
+
+Justin schlägt code in der exotischen Programmiersprache .Gertrud vor
+
+Staging area
+
+sha1 hash erklärt
+
+git stash erklärt
+
+git diff erklärt (textbasiert)
 
 git branch
 git merge
