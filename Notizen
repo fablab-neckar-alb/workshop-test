@@ -10,3 +10,5 @@ Es könnte eine gute Idee sein, dass alle Notizen machen und die dann per git me
 
 Struktur von .git/config 
 ~/.gitconfig
+Aus irgend einem Grund finde ich nicht, wo ich nano statt vi als Editor konfiguriert habe
+
