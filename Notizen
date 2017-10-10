@@ -3,3 +3,4 @@ git init : lege ein "git repository" in einem Ordner an
 git status : zeigt den aktuellen Zustand des "repository"
 git log : zeigt die Versionsgeschichte
 
+Justin schlägt code in der exotischen Programmiersprache gertrude vor
