@@ -1,5 +1,5 @@
-git init
-.git folder
-git status
-git log
+git init : lege ein "git repository" in einem Ordner an
+.git folder : enthält die Information für git
+git status : zeigt den aktuellen Zustand des "repository"
+git log : zeigt die Versionsgeschichte
 
