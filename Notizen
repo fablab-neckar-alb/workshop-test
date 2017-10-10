@@ -16,3 +16,6 @@ git stash erklärt
 git diff erklärt (textbasiert)
 
 git whatchanged erwähnt (!!!)
+
+github account anlegen ... 
+git remote add origin https://github.com/...
