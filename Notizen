@@ -6,3 +6,5 @@ git log : zeigt die Versionsgeschichte
 git branch
 git merge
 
+Es könnte eine gute Idee sein, dass alle Notizen machen und die dann per git merge geteilt werden.
+
