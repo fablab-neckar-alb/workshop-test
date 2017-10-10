@@ -3,3 +3,6 @@ git init : lege ein "git repository" in einem Ordner an
 git status : zeigt den aktuellen Zustand des "repository"
 git log : zeigt die Versionsgeschichte
 
+git branch
+git merge
+
